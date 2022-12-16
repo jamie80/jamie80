@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamie80
 - 👀 I’m interested in tennis.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning HTML, CSS, SASS, and JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
