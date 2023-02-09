@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamie80
-- 👀 I’m interested in tennis.
+- 👀 I’m interested in IT, especially FRONTEND.
 - 🌱 I’m currently learning HTML, CSS, SASS, and JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
